@@ -1,0 +1,157 @@
+/* conetnidos HTMl, Texto HTML, Imagnes HTML, Enlaces en HTML, CSS, Processo de disenio*/
+
+*{
+    box-sizing: border-box;
+    font-family: "IBM Plex Mono", monospace;
+}
+header{
+    width: 1366px;
+    height: 290px;
+    background-image: url(../imagenes/Fondo.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    width:1366px ;
+    height: 70px;
+    background-color: #0E141F;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+section{
+    width: 1366px;
+    height: 1550px;
+    background:linear-gradient(#0d131e,#283a5c,#2a3c5e, #586b8f,#2a3c5e);
+    font-size: 25px;
+}
+.titulo{
+    width: 1366px;
+    height: 100px;
+    background-color: #151e30;
+    float: left;
+}
+
+.contenido1{
+    width: 550px;
+    height: 1100px;
+    background-color: #24425a;
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 35px;
+    font-size: 25px;
+}
+.texto1{
+    width: 500px;
+    height: 900px;
+    background-color: #7595a2;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 12px;
+    
+}
+.textomucho{
+    width: 500px;
+    height: 900px;
+    background-color: #7595a2;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 12px;
+    font-size: 20px;
+    
+}
+
+.contenido2{
+    width: 700px;
+    height: 1100px;
+    background-color: #24425a;
+    margin-top: 10px;
+    margin-left: 100px;
+    display: inline-block;
+    border-radius: 35px;
+    font-size: 25px;
+}
+
+.texto2{
+    width: 600px;
+    height: 550px;
+    background-color: #7595a2;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    
+}
+.imagencss{
+    width: 600px;
+    height: 350px;
+    background-color: rgb(73, 63, 82);
+    margin-top: 10px;
+    margin-left: 50px;
+    background-image: url(../imagenes/CSS\ DIBUJO.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.imagenhw{
+    width: 600px;
+    height: 350px;
+    background-color: rgb(73, 63, 82);
+    margin-top: 10px;
+    margin-left: 50px;
+    background-image: url(../imagenes/Captura\ de\ pantalla\ 2024-10-06\ 220825.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.imagenlink{
+    width: 600px;
+    height: 350px;
+    background-color: #439447;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-image: url(../imagenes/d1f.png);
+    background-repeat:no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.imagentexto{
+    width: 600px;
+    height: 350px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-image: url(../imagenes/Imagen1.png);
+    background-repeat:no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.imagencon{
+    width: 600px;
+    height: 350px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-image: url(../imagenes/htm.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contenido3{
+    width: 1366px;
+    height: 320px;
+    background-color: #2a3c5e;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+.texto3{
+    width: 1250px;
+    height: 200px;
+    background-color: #3a5a96;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 25px;
+    
+}
